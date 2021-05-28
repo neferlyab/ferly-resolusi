@@ -1,5 +1,6 @@
 rencana neferly
 -buat phython
 *buat dasar phython
--buat web
+^Anggular
+^React
 -fudamental struktur dasar
