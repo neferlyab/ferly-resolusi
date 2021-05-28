@@ -2,3 +2,4 @@ rencana neferly
 -buat phython
 *buat dasar phython
 -buat web
+-fudamental struktur dasar
