@@ -1,5 +1,9 @@
 rencana neferly
 -buat phython
 *buat dasar phython
+*framework java script
+*Vue
 -buat web
 -fudamental struktur dasar
+-framework java scrip
+-java
