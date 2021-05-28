@@ -1,0 +1,4 @@
+rencana neferly
+-buat phython
+*buat dasar phython
+-buat web
